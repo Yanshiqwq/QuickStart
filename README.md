@@ -14,4 +14,4 @@
 &emsp; Ctrl+Win+C	-> 以系统权限运行CMD  
 &emsp; Shift+Win+C -> 以普通用户权限运行CMD  
     
->*作者:延时qwq 永久免费,* **严禁倒卖**
+>作者:延时qwq **永久免费,严禁倒卖**
