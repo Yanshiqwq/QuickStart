@@ -1,0 +1,11 @@
+QuickStart 帮助 
+
+Win+C	-> 以管理员身份运行CMD
+Ctrl+Win+C	-> 以系统权限运行CMD
+Shift+Win+C -> 以普通用户权限运行CMD
+
+Win+P -> 以管理员身份运行PowerShell
+Ctrl+Win+P -> 以系统权限运行PowerShell
+Shift+Win+P -> 以普通用户权限运行PowerShell
+
+作者:延时qwq 永久免费,严禁倒卖awa
