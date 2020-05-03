@@ -2,7 +2,7 @@
 快速开启不同权限的CMD和PowerShell  
 ---
 ## v1.2 功能
-&emsp; 开机自启动,无需额外下载PsExec.exe.
+&emsp; 开机自启动,无需额外下载PsExec.exe.  
 &emsp; Win+C	-> 以管理员身份运行CMD  
 &emsp; Ctrl+Win+C	-> 以系统权限运行CMD  
 &emsp; Shift+Win+C -> 以普通用户权限运行CMD  
