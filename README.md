@@ -2,8 +2,9 @@
 快速开启不同权限的CMD和PowerShell  
 ---
 ## v1.2 功能
-&emsp; 修复: v1.2-pre2的所有修复无效的问题
-&emsp; 这是真正有用的一个版本(bushi
+&emsp; 修复: v1.2-pre2的所有修复无效的问题  
+&emsp; 这是真正有用的一个版本(bushi  
+
 ### v1.2-pre2 功能  
 &emsp; 修复: 开机无法自启动  
 &emsp; 修复: 自启动链接对应文件名是QuickStart.exe而不是QuickStart-[版本名].exe
